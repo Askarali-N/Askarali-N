@@ -51,7 +51,7 @@
 ## 📫 **Connect with Me**
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/askarali-n-920716165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web" /></a>
 </p>  
 
