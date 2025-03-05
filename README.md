@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=🔬+Researcher+%7C+Developer+%7C+Tech+Enthusiast;🚀+AI%2C+IoT+%26+Automation+Innovator;🛠️+Building+the+Future+One+Project+at+a+Time" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=🔬+Researcher+%7C+Developer+%7C+Tech+Enthusiast;🛠️+Building+the+Future+One+Project+at+a+Time" />
 </p>  
 
 ---
@@ -14,9 +14,9 @@
 <p align="center">
   
 </p>
-🚀 Passionate **Researcher & Developer** with expertise in **sensor integration, AI automation, and IoT-based solutions**.  
-⚙️ Constantly exploring new **technologies, robotics, and AI-driven systems** to solve real-world problems.  
-🎯 Believer in **tech-driven industrial transformations** for a smarter future!  
+🚀 Passionate Researcher & Developer with expertise in sensor integration, AI automation, and IoT-based solutions.  
+⚙️ Constantly exploring new technologies, robotics, and AI-driven systems to solve real-world problems.  
+🎯 Believer in tech-driven industrial transformations for a smarter future!  
 
 ---
 
