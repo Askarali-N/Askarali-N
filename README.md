@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My Innovation Hub! I'm Askarali 🌟</h1>  
 
 <p align="center">
-  <b>🔹 Innovating with Embedded Systems | AI | IoT | Automation 🔹</b>
+  <b>🔹 Innovating with Embedded Systems | IoT | Automation  AI🔹</b>
 </p>  
 
 <p align="center">
