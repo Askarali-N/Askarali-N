@@ -39,6 +39,13 @@
 
 ---
 
+## 📈 **GitHub Contribution Graph**
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yourusername&theme=dracula" width="500px" />
+</p>
+
+---
+
 ## 💡 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/Microcontrollers-ATmega328 | ESP8266 | Jetson_Nano-orange?style=flat-square" />
@@ -48,13 +55,32 @@
 
 ---
 
-## 📫 **Connect with Me**
+## 🚀 **Featured Projects**
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
-  <a href="[https://www.linkedin.com/in/askarali-n-920716165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web" /></a>
+  <a href="https://github.com/yourusername/IndustrialCleaningRobot">
+    <img src="https://img.shields.io/badge/Project-Industrial_Cleaning_Robot-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername/PoultryFarmAutomation">
+    <img src="https://img.shields.io/badge/Project-Poultry_Farm_Automation-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername/AIFallDetection">
+    <img src="https://img.shields.io/badge/Project-AI_Fall_Detection-blue?style=for-the-badge" />
+  </a>
 </p>  
 
 ---
 
-⭐ **"Technology is best when it brings people together."** – Let's build the future, one innovation at a time! 🚀  
+## 📫 **Connect with Me**
+<p align="center">
+  <a href="mailto:askar.zts@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/askarali-n-920716165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+</p>  
+
+---
+
+## 🎯 **Quote of the Day**
+> "Technology is best when it brings people together."  
+> _Let's build the future, one innovation at a time!_ 🚀  
+
+---
+
