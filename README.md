@@ -10,7 +10,7 @@
 ---
 
 ## 👋 **About Me**
-🔬 Passionate **researcher & developer** with expertise in **sensor integration, microcontrollers, automation, and AI-driven solutions**.  
+🔬 Passionate **Researcher & Developer** with expertise in **sensor integration, microcontrollers, automation, and AI-driven solutions**.  
 🎯 I love solving **real-world challenges** through **intelligent system design and automation**.  
 💡 Always exploring **new technologies, AI innovations, and IoT solutions** to improve industries.  
 
