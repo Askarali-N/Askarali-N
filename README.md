@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=🔬+Researcher+%7C+Developer+%7C+Tech+Enthusiast;🛠️+Building+the+Future+One+Project+at+a+Time" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=🔬+Researcher+%7C+Developer+%7C+Tech+Enthusiast" />
 </p>  
 
 ---
