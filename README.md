@@ -5,70 +5,38 @@
 </p>  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41m3X4Y4M4MwvJcM/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </p>  
 
 ---
 
-<marquee scrollamount="10" behavior="alternate">
-  🔥 Passionate about AI, IoT, Embedded Systems & Automation | Solving Real-World Challenges with Technology! 🔥
-</marquee>
-
-## 👨‍💻 **Who Am I?**
-<p>
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="50px"> 
-  <span id="typing"></span>
+## 🌟 **Who Am I?**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=🔬+Researcher+%7C+Developer+%7C+Tech+Enthusiast;🚀+AI%2C+IoT+%26+Automation+Innovator;🛠️+Building+the+Future+One+Project+at+a+Time" />
 </p>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-#typing {
-  display: inline-block;
-  font-weight: bold;
-  font-size: 18px;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid #0077b6;
-  width: 0;
-  animation: typing 4s steps(40, end) infinite alternate;
-}
-</style>
-
-<script>
-const text = "🔬 Tech Enthusiast | Researcher | Developer | Problem Solver!";
-let i = 0;
-function typeWriter() {
-  if (i < text.length) {
-    document.getElementById("typing").textContent += text.charAt(i);
-    i++;
-    setTimeout(typeWriter, 100);
-  }
-}
-typeWriter();
-</script>
+🚀 Passionate **Researcher & Developer** with expertise in **sensor integration, AI automation, and IoT-based solutions**.  
+⚙️ Constantly exploring new **technologies, robotics, and AI-driven systems** to solve real-world problems.  
+🎯 Believer in **tech-driven industrial transformations** for a smarter future!  
 
 ---
 
-## 🚀 **Ongoing Projects**
-- 🏭 **Industrial Cleaning Robot** – Smart, autonomous industrial cleaning system.  
-- 🐓 **Poultry Farm Automation & Waste Management** – AI & IoT-powered efficiency optimization.  
+## 🔥 **Current Innovations**
+- 🤖 **Industrial Cleaning Robot** – AI-powered smart industrial cleaning.  
+- 🐓 **Poultry Farm Automation & Waste Management** – IoT-driven farm efficiency solutions.  
 - 🚦 **AI-Enabled Road Condition & Fall Detection System** – Govt. project (**I-Hub Data Foundation, Hyderabad**).  
-- 🛡️ **AI-Integrated Welder's Helmet** – **VR-based industrial safety innovation** with **real-time video & data streaming**.  
+- 🛡️ **AI-Integrated Welder's Helmet** – **VR-based industrial safety** with real-time video streaming.  
 
 ---
 
-## 🌟 **Notable Achievements**
-<marquee scrollamount="7" behavior="scroll">
-  🏆 BLE Weighing Scale Automation • 🏫 IoT School Bus Tracking • 🏭 Textile Industry Humidity Monitoring  
-</marquee>  
+## 🏆 **Key Achievements**
+🚀 Developed a **BLE-based Weighing Scale Automation** system for poultry farms.  
+🚍 Implemented an **IoT Smart School Bus Tracking System** to enhance student safety.  
+🏭 Created a **Humidity Monitoring System** for textile industries, ensuring optimal production conditions.  
 
 ---
 
-## 📊 **Tech in Action – GitHub Stats**  
+## 📊 **GitHub Insights**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="400px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="400px" />
@@ -76,20 +44,32 @@ typeWriter();
 
 ---
 
-## 🛠️ **Tech Toolbox**
+## 🛠 **Tech Stack**
+🖥️ **Microcontrollers**: ATmega328 | ESP8266 | Jetson Nano  
+📡 **Sensors**: IMU | Load Cell | Environmental Monitoring  
+🛠 **Tools**: KiCad | Thonny | MPLAB X IDE | Python | OpenCV  
+
+---
+
+## 🤝 **Tech Handshake**
 <p align="center">
-  <img src="https://img.shields.io/badge/Microcontrollers-ATmega328 | ESP8266 | Jetson_Nano-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sensors-IMU | Load Cell | Environmental-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-KiCad | Thonny | MPLAB-blue?style=flat-square" />
+  <img src="https://media.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif" width="400px">
 </p>  
 
 ---
 
-## 📬 **Let’s Connect & Collaborate!**
+## 📬 **Connect with Me**
 <p align="center">
   <a href="mailto:askar.zts@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/askarali-n-920716165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>  
+
+---
+
+## 🚀 **Vision for the Future**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=🌎+Transforming+Industries+with+AI+%26+Automation;📡+Expanding+IoT+Innovation;🚀+Building+Next-Gen+Tech+Solutions" />
+</p>
 
 ---
 
